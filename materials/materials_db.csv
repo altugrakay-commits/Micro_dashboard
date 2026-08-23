@@ -1,0 +1,7 @@
+﻿Name;CTE_xy_Min;CTE_xy_Max;CTE_z_Min;CTE_z_Max;YM_xy_Gpa_Min;YM_xy_Gpa_Max;YM_z_Gpa_Min;YM_z_Gpa_Max;Poissons_Ratio_Min;Poissons_Ratio_Max;Thermal_Conductivity_Min;Thermal_Conductivity_Max;Activation_Energy_Ea_eV_Min;Activation_Energy_Ea_eV_Max;J_crit_A_cm2_Min;J_crit_A_cm2_Max
+Si;2.6e-6;2.6e-6;2.6e-6;2.6e-6;130;169;130;169;0.22;0.28;130;148;;;;
+GaN;3.17e-6;3.17e-6;3.17e-6;3.17e-6;290;330;290;330;0.23;0.25;130;210;;;;
+Cu;16.5e-6;16.5e-6;16.5e-6;16.5e-6;110;128;110;128;0.34;0.34;385;400;;;;
+FR4;14.0e-6;17.0e-6;50.0e-6;70.0e-6;18;24;10;14;0.13;0.18;0.3;0.5;;;;
+SAC305;20.0e-6;20.0e-6;20.0e-6;20.0e-6;40;54;40;54;0.36;0.40;50;58;0.75;0.80;10000;50000
+Cu6Sn5;16.3e-6;16.3e-6;16.3e-6;16.3e-6;85;115;85;115;0.30;0.32;30;34;0.75;0.80;;

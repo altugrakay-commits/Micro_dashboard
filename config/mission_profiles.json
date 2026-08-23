@@ -1,0 +1,52 @@
+{
+    "automotive": {
+        "name": "Automotive Engine Bay",
+        "delta_T_k": 115.0,
+        "ambient_temp_c": 85.0,
+        "vibration_g_rms": 12.0,
+        "primary_failure_mode": "Solder fatigue & thermo-mechanical substrate delamination.",
+        "barrier_type": "Ni_Au",
+        "target_cycles": 3000.0,
+        "cycling_frequency_hz": 0.00027778
+    },
+    "aerospace": {
+        "name": "Aerospace Avionics",
+        "delta_T_k": 180.0,
+        "ambient_temp_c": 125.0,
+        "vibration_g_rms": 12.0,
+        "primary_failure_mode": "Die Cracking.",
+        "barrier_type": "TaN_W",
+        "target_cycles": 10000.0,
+        "cycling_frequency_hz": 0.00013889   
+    },
+    "defense": {
+        "name": "Defense Missile Guidance",
+        "delta_T_k": 210.0,
+        "ambient_temp_c": 150.0,
+        "vibration_g_rms": 20.0,
+        "primary_failure_mode": "Substrate Delamination.",
+        "barrier_type": "TaN_W",
+        "target_cycles": 25000.0,
+        "cycling_frequency_hz": 0.001
+    },
+    "consumer": {
+        "name": "Consumer Mobile Device",
+        "delta_T_k": 45.0,
+        "ambient_temp_c": 40.0,
+        "vibration_g_rms": 1.5,
+        "primary_failure_mode": "Thermal Throttling.",
+        "barrier_type": "none",
+        "target_cycles": 1500.0,
+        "cycling_frequency_hz": 0.0001
+    },
+    "industrial": {
+        "name": "Industrial Power Inverter",
+        "delta_T_k": 95.0,
+        "ambient_temp_c": 85.0,
+        "vibration_g_rms": 3.5,
+        "primary_failure_mode": "IMC Creep.",
+        "barrier_type": "Ni_Au",
+        "target_cycles": 5000.0,
+        "cycling_frequency_hz": 0.00005
+    }
+}
