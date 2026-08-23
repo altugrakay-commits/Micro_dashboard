@@ -69,7 +69,7 @@ Micro_dashboard/
 
 | 3D PCB FEA Thermal Strain Animation | KiCad 3D Board Layout Inspection |
 | :---: | :---: |
-| <video src="assets/3D_PCB_CAD_Assembly_Render_Automotive.gif" width="100%" controls></video> | <video src="assets/KiCad_3D_View_Automotive.gif" width="100%" controls></video> |
+| ![3D PCB CAD Assembly](assets/3D_PCB_CAD_Assembly_Render_Automotive.gif) | ![KiCad 3D View](assets/KiCad_3D_View_Automotive.gif) |
 
 | PyVista 3D FEA Stress Heatmap | KiCad PCB Layout Editor |
 | :---: | :---: |
